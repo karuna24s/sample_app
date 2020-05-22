@@ -209,7 +209,7 @@ GEM
     fog-voxel (0.1.0)
       fog-core
       fog-xml
-    fog-vsphere (3.2.3)
+    fog-vsphere (3.3.1)
       fog-core
       rbvmomi (>= 1.9, < 3)
     fog-xenserver (1.0.0)
@@ -255,9 +255,9 @@ GEM
     nio4r (2.5.2)
     nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
-    optimist (3.0.0)
+    optimist (3.0.1)
     pg (1.2.2)
-    puma (4.3.3)
+    puma (4.3.5)
       nio4r (~> 2.0)
     rack (2.2.2)
     rack-test (1.1.0)
@@ -296,7 +296,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rbvmomi (2.3.0)
+    rbvmomi (2.4.1)
       builder (~> 3.0)
       json (>= 1.8)
       nokogiri (~> 1.5)
